@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Trucker Move",
+        "command": "trucker:move"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "trucker",
+          "submenu": [
+            {
+              "label": "Move",
+              "command": "trucker:move"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

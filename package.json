@@ -1,0 +1,18 @@
+{
+  "name": "trucker",
+  "main": "./lib/trucker",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "trucker:move"
+  },
+  "repository": "https://github.com/atom/trucker",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
