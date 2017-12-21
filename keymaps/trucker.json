@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
-    "ctrl-alt-o": "trucker:move"
-  }
+    "atom-workspace": {
+        "ctrl-alt-m": "trucker:move"
+    }
 }
