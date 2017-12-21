@@ -9,13 +9,13 @@
         ".tree-view .full-menu [is=\"tree-view-directory\"]": [
             {
                 "label": "Move Directory with Trucker",
-                "command": "trucker:moveTarget"
+                "command": "trucker:treeViewMove"
             }
         ],
         ".tree-view .full-menu [is=\"tree-view-file\"]": [
             {
                 "label": "Move File with Trucker",
-                "command": "trucker:moveTarget"
+                "command": "trucker:treeViewMove"
             }
         ]
     },
