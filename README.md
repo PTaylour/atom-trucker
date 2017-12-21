@@ -1,4 +1,6 @@
-# atom-trucker 🚚 — Move Files Whilst Maintaining Dependencies
+# atom-trucker 🚚
+
+## Move files while maintaining dependencies
 
 Move or rename JavaScript source files while fixing up the paths used in requires.
 
