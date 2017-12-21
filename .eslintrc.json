@@ -1,4 +1,5 @@
 {
+    "parser": "babel-eslint",
     "root": true,
     "plugins": ["prettier"],
     "extends": ["prettier"],
@@ -27,6 +28,5 @@
         "import/no-extraneous-dependencies": 0,
         "import/extensions": 0
     },
-    "settings": {
-    }
+    "settings": {}
 }
