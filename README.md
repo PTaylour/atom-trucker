@@ -2,7 +2,12 @@
 
 **Move files while maintaining dependencies**
 
-Move or rename JavaScript source files while fixing up the paths used in requires.
+Move or rename source files while fixing up the paths used in requires.
+
+Supports:
+
+* js, as parsed by babel (up to ES7)
+* coffeescript
 
 ![access via context menu](./screenshot.png)
 
