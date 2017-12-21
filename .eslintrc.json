@@ -1,0 +1,32 @@
+{
+    "root": true,
+    "plugins": ["prettier"],
+    "extends": ["prettier"],
+    "env": {
+        "node": true,
+        "jest": true
+    },
+    "rules": {
+        "prettier/prettier": [
+            "error",
+            {
+                "trailingComma": "es5",
+                "tabWidth": 4,
+                "semi": false,
+                "singleQuote": true
+            }
+        ],
+        "no-console": 0,
+        "no-debugger": 1,
+        "no-unused-vars": ["error", { "argsIgnorePattern": "_" }],
+        "no-multiple-empty-lines": ["error", { "max": 1, "maxEOF": 0 }],
+        "no-underscore-dangle": 0,
+        "import/prefer-default-export": 0,
+        "import/first": 0,
+        "import/no-unresolved": 0,
+        "import/no-extraneous-dependencies": 0,
+        "import/extensions": 0
+    },
+    "settings": {
+    }
+}
