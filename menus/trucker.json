@@ -1,26 +1,26 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Trucker Move",
-        "command": "trucker:move"
-      }
-    ]
-  },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "trucker",
-          "submenu": [
+    "context-menu": {
+        "atom-text-editor": [
             {
-              "label": "Move",
-              "command": "trucker:move"
+                "label": "Trucker Move",
+                "command": "trucker:move"
             }
-          ]
+        ]
+    },
+    "menu": [
+        {
+            "label": "Packages",
+            "submenu": [
+                {
+                    "label": "Trucker",
+                    "submenu": [
+                        {
+                            "label": "Move",
+                            "command": "trucker:move"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
-    }
-  ]
+    ]
 }
