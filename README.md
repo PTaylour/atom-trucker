@@ -1,6 +1,6 @@
 # atom-trucker 🚚
 
-**Move files while maintaining dependencies**
+**IDE refactoring: Move files while maintaining dependencies**
 
 Move or rename source files while fixing up the paths used in requires.
 
