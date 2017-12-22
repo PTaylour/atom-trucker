@@ -4,15 +4,23 @@
 
 Move or rename source files while fixing up the paths used in requires.
 
-Supports:
+#### Language Support
 
 * js, as parsed by babel (up to ES7)
 * coffeescript
 
-![access via context menu](./screenshot.png)
+#### How to
 
-![access via context menu](./screenshot-result.png)
+![access via context menu](./screenshot-menu.png)
 
-`apm install trucker`
+![choose a new path](./screenshot-choose.png)
+
+![revert any mistakes](./screenshot-success.png)
+
+#### Installation
+
+`apm install trucker` or search `trucker`
+
+#### About
 
 Uses node-trucker under the hood 🚚. https://github.com/davidmfoley/node-trucker
