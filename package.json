@@ -1,26 +1,32 @@
 {
-    "name": "trucker",
-    "main": "./lib/trucker",
-    "version": "1.0.1",
-    "description":
-        "Move or rename JavaScript source files while fixing up the paths used in requires.",
-    "keywords": ["refactoring", "js", "imports", "require", "move", "rename"],
-    "activationCommands": {
-        "atom-workspace": "trucker:move"
-    },
-    "repository": "https://github.com/ptaylour/atom-trucker",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "dependencies": {
-        "trucker": "^0.7.3"
-    },
-    "devDependencies": {
-        "babel-eslint": "^8.0.3",
-        "eslint": "^4.13.1",
-        "eslint-config-prettier": "^2.9.0",
-        "eslint-plugin-prettier": "^2.4.0",
-        "prettier": "^1.9.2"
-    }
+  "name": "trucker",
+  "main": "./lib/trucker",
+  "version": "1.0.2",
+  "description": "Move or rename JavaScript source files while fixing up the paths used in requires.",
+  "keywords": [
+    "refactoring",
+    "js",
+    "imports",
+    "require",
+    "move",
+    "rename"
+  ],
+  "activationCommands": {
+    "atom-workspace": "trucker:move"
+  },
+  "repository": "https://github.com/ptaylour/atom-trucker",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "trucker": "^0.7.3"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.3",
+    "eslint": "^4.13.1",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.4.0",
+    "prettier": "^1.9.2"
+  }
 }
