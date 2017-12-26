@@ -11,11 +11,11 @@ Move or rename source files while fixing up the paths used in requires.
 
 #### How to
 
-![access via context menu](./screenshot-menu.png)
+![access via context menu](https://github.com/PTaylour/atom-trucker/raw/master/screenshot-menu.png)
 
-![choose a new path](./screenshot-choose.png)
+![choose a new path](https://github.com/PTaylour/atom-trucker/raw/master/screenshot-choose.png)
 
-![revert any mistakes](./screenshot-success.png)
+![revert any mistakes](https://github.com/PTaylour/atom-trucker/raw/master/screenshot-success.png)
 
 #### Installation
 
