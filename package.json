@@ -20,6 +20,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "ramda": "^0.25.0",
     "trucker": "^0.7.3"
   },
   "devDependencies": {
@@ -28,7 +29,6 @@
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-prettier": "^2.4.0",
     "prettier": "^1.9.2",
-    "ramda": "^0.25.0",
     "temp": "^0.8.3"
   }
 }
