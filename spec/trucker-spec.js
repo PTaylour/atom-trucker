@@ -1,6 +1,5 @@
 'use babel'
 
-import Trucker from '../lib/trucker'
 import temp from 'temp'
 
 // Use the command `window:run-package-specs` (cmd-alt-ctrl-p) to run specs.
