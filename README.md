@@ -1,5 +1,7 @@
 # atom-trucker 🚚
 
+![build status](https://api.travis-ci.org/PTaylour/atom-trucker.svg?branch=master)
+
 **IDE refactoring: move files while maintaining dependencies**
 
 Move or rename source files while fixing up the paths used in requires.
