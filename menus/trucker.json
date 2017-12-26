@@ -6,15 +6,15 @@
                 "command": "trucker:move"
             }
         ],
-        ".tree-view .full-menu [is=\"tree-view-directory\"]": [
-            {
-                "label": "Move Directory with Trucker",
-                "command": "trucker:treeViewMove"
-            }
-        ],
         ".tree-view .full-menu [is=\"tree-view-file\"]": [
             {
                 "label": "Move File with Trucker",
+                "command": "trucker:treeViewMove"
+            }
+        ],
+        ".tree-view .full-menu .header": [
+            {
+                "label": "Move Directory with Trucker",
                 "command": "trucker:treeViewMove"
             }
         ]
