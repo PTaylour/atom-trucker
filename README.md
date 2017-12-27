@@ -11,11 +11,7 @@
 
 #### How to
 
-![access via context menu](https://github.com/PTaylour/atom-trucker/raw/master/screenshot-menu.png)
-
-![choose a new path](https://github.com/PTaylour/atom-trucker/raw/master/screenshot-choose.png)
-
-![revert any mistakes](https://github.com/PTaylour/atom-trucker/raw/master/screenshot-success.png)
+![how to gif](https://github.com/PTaylour/atom-trucker/raw/master/trucker-intro.gif)
 
 #### Installation
 
